@@ -21,6 +21,7 @@ I'm a 20-year-old developer with a passion for **web development**. I'm currentl
 
 ## 🌱 Currently Working on
 Creating my portfolio and more projects to showcase my skills and growth as a web developer.
+Developing a collaborative whiteboard tool with real-time data sync and interactive features for seamless teamwork.
 
 ## 📫 Get in Touch
 Let's connect on [LinkedIn](https://www.linkedin.com/in/aman-prajapati-540a53277/) and [X](https://x.com/amannprajapati).
