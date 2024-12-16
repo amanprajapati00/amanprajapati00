@@ -20,7 +20,6 @@ Checkout my portfolio-[aman-codes.vercel.app](https://aman-codes.vercel.app)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 🌱 Currently Working on
-Creating my portfolio and more projects to showcase my skills and growth as a web developer.\
 Developing a collaborative whiteboard tool with real-time data sync and interactive features for seamless teamwork.
 
 ## 📫 Get in Touch
