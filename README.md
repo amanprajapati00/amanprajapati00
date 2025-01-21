@@ -1,6 +1,6 @@
 # Hi, I'm Aman 👋
 
-I'm a 20-year-old developer with a passion for **web development**. I'm currently learning and building projects in this exciting field. I enjoy working with modern web technologies and constantly exploring new tools to enhance my skills.\
+I'm a 21-year-old developer with a passion for **web development**. I'm currently learning and building projects in this exciting field. I enjoy working with modern web technologies and constantly exploring new tools to enhance my skills.\
 Checkout my portfolio-[aman-codes.vercel.app](https://aman-codes.vercel.app)
 ## 🛠️ Tech Stack
 
